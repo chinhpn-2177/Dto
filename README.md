@@ -3,17 +3,11 @@
 
 ## Installation
 
-### CocoaPods
-
-```
-pod Dto
-```
-
 ### Swift Package Manager
 
 ```
 dependencies: [
-    .package(url: "https://github.com/tuan188/Dto.git", from: "0.1.0")
+    .package(url: "https://github.com/tuan188/Dto.git", from: "1.0.0")
 ]
 ```
 
